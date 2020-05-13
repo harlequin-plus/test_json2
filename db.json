@@ -1,0 +1,115 @@
+{
+  "lists": [
+    {
+      "id": 3,
+      "name": "Фильмы и сериалы",
+      "colorId": 3
+    },
+    {
+      "id": 4,
+      "name": "Книги к прочтению",
+      "colorId": 2
+    },
+    {
+      "name": "Изучить ReactJS",
+      "colorId": 4,
+      "id": 5
+    },
+    {
+      "name": "ДР Татьяны",
+      "colorId": 2,
+      "id": 6
+    },
+    {
+      "name": "Спорт",
+      "colorId": 5,
+      "id": 8
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 4,
+      "text": "Купить 1984!",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "listId": 3,
+      "text": "Паразиты 2019",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "listId": 6,
+      "text": "Торт + свечи 25 штук",
+      "completed": false,
+      "id": 18
+    },
+    {
+      "listId": 6,
+      "text": "Подготовить трек-лист на гитаре",
+      "completed": false,
+      "id": 19
+    },
+    {
+      "listId": 8,
+      "text": "Сделать 10 отжиманий",
+      "completed": true,
+      "id": 20
+    },
+    {
+      "listId": 6,
+      "text": "Яблоки 2",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "listId": 3,
+      "text": "Форд против феррари",
+      "completed": false,
+      "id": 22
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
